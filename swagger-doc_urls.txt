@@ -1,0 +1,40 @@
+https://www.youtube.com/watch?v=1Vmi_5ZsyqE
+
+https://github.com/jackfr0st13/centralized-swagger
+
+https://www.youtube.com/watch?v=lY24_jwMxTw
+
+https://github.com/geekymon2/carmarketplace-apigateway
+
+https://github.com/geekymon2/carmarketplace-config
+
+
+https://github.com/piomin/sample-spring-microservices-advanced
+
+https://piotrminkowski.com/2020/02/20/microservices-api-documentation-with-springdoc-openapi/
+
+--------------------------------
+
+spring people
+
+https://www.youtube.com/watch?v=utRxyPfFlDw
+
+https://github.com/springdoc/springdoc-openapi-demos/tree/master/springdoc-openapi-microservices
+
+----------------------
+
+https://gist.github.com/ponelat/a51fe50481f8b7a31038
+
+https://github.com/schroedermatt/swagger-aggregate
+https://tanzu.vmware.com/developer/guides/app-enhancements-spring-k8s/
+https://objectpartners.com/2017/09/28/aggregate-services-into-a-single-swagger/
+
+https://www.youtube.com/watch?v=1Vmi_5ZsyqE
+
+
+https://subscription.packtpub.com/book/web-development/9781801072977/2/ch02lvl1sec12/using-spring-cloud-gateway-to-hide-microservices-behind-an-edge-server
+
+https://medium.com/spring-boot/building-microservice-with-spring-boot-part-04-8ab75353b9ee
+
+./gradlew build
+docker build --build-arg JAR_FILE="build/libs/*.jar" -t splitdemo/spring-boot-docker .
